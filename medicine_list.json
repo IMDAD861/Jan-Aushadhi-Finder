@@ -1,0 +1,3852 @@
+[
+  {
+    "brand": "Allegra 250",
+    "generic": "Thyroxine",
+    "bPrice": 283.71,
+    "gPrice": 79.7,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 200",
+    "generic": "Amoxicillin",
+    "bPrice": 24.19,
+    "gPrice": 44.45,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Moxikind 100",
+    "generic": "Thyroxine",
+    "bPrice": 250.95,
+    "gPrice": 44.21,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Azithromycin",
+    "bPrice": 263.06,
+    "gPrice": 79.0,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Augmentin 40",
+    "generic": "Cefixime",
+    "bPrice": 46.64,
+    "gPrice": 60.47,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Rantac 650",
+    "generic": "Metformin",
+    "bPrice": 121.12,
+    "gPrice": 60.07,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Pantoprazole",
+    "bPrice": 217.11,
+    "gPrice": 60.18,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Montek 250",
+    "generic": "Metformin",
+    "bPrice": 105.11,
+    "gPrice": 7.18,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Vitamin C",
+    "bPrice": 186.01,
+    "gPrice": 45.4,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Pantoprazole",
+    "bPrice": 209.52,
+    "gPrice": 54.18,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Telmisartan",
+    "bPrice": 53.2,
+    "gPrice": 20.55,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 650",
+    "generic": "Telmisartan",
+    "bPrice": 87.41,
+    "gPrice": 11.07,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Shelcal 100",
+    "generic": "Vitamin C",
+    "bPrice": 243.6,
+    "gPrice": 46.42,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Ibuprofen",
+    "bPrice": 169.4,
+    "gPrice": 68.59,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Allegra 500",
+    "generic": "Cefixime",
+    "bPrice": 115.5,
+    "gPrice": 14.59,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Limcee 200",
+    "generic": "Telmisartan",
+    "bPrice": 102.97,
+    "gPrice": 48.27,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Azee 250",
+    "generic": "Telmisartan",
+    "bPrice": 228.23,
+    "gPrice": 54.39,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Amoxicillin",
+    "bPrice": 297.66,
+    "gPrice": 40.92,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Pan 650",
+    "generic": "Telmisartan",
+    "bPrice": 93.43,
+    "gPrice": 49.34,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Crocin 100",
+    "generic": "Paracetamol",
+    "bPrice": 39.23,
+    "gPrice": 77.13,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Zifi 200",
+    "generic": "Ibuprofen",
+    "bPrice": 51.71,
+    "gPrice": 10.14,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Montek 650",
+    "generic": "Metformin",
+    "bPrice": 69.12,
+    "gPrice": 24.84,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Telma 40",
+    "generic": "Cefixime",
+    "bPrice": 46.9,
+    "gPrice": 55.57,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Shelcal 40",
+    "generic": "Telmisartan",
+    "bPrice": 78.69,
+    "gPrice": 75.92,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Sinarest 200",
+    "generic": "Ibuprofen",
+    "bPrice": 211.92,
+    "gPrice": 77.34,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Taxim 250",
+    "generic": "Vitamin C",
+    "bPrice": 125.2,
+    "gPrice": 72.36,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Crocin 500",
+    "generic": "Cefixime",
+    "bPrice": 65.2,
+    "gPrice": 71.2,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azee 40",
+    "generic": "Telmisartan",
+    "bPrice": 298.39,
+    "gPrice": 22.21,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Benadryl 200",
+    "generic": "Vitamin C",
+    "bPrice": 113.26,
+    "gPrice": 60.59,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Omez 40",
+    "generic": "Ibuprofen",
+    "bPrice": 166.27,
+    "gPrice": 9.86,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Telmisartan",
+    "bPrice": 169.59,
+    "gPrice": 6.28,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Augmentin 40",
+    "generic": "Ibuprofen",
+    "bPrice": 286.56,
+    "gPrice": 18.89,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Montek 650",
+    "generic": "Paracetamol",
+    "bPrice": 92.33,
+    "gPrice": 64.71,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Glycomet 500",
+    "generic": "Azithromycin",
+    "bPrice": 216.1,
+    "gPrice": 29.12,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Telma 200",
+    "generic": "Pantoprazole",
+    "bPrice": 144.16,
+    "gPrice": 27.83,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Pantoprazole",
+    "bPrice": 151.65,
+    "gPrice": 19.82,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Vitamin C",
+    "bPrice": 294.59,
+    "gPrice": 70.15,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Thyronorm 650",
+    "generic": "Thyroxine",
+    "bPrice": 110.42,
+    "gPrice": 50.73,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 650",
+    "generic": "Vitamin C",
+    "bPrice": 24.56,
+    "gPrice": 16.16,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Augmentin 650",
+    "generic": "Pantoprazole",
+    "bPrice": 253.04,
+    "gPrice": 20.26,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Ibuprofen",
+    "bPrice": 142.32,
+    "gPrice": 7.4,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 250",
+    "generic": "Paracetamol",
+    "bPrice": 138.48,
+    "gPrice": 46.45,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Becosules 100",
+    "generic": "Ibuprofen",
+    "bPrice": 118.76,
+    "gPrice": 17.73,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Augmentin 200",
+    "generic": "Azithromycin",
+    "bPrice": 217.22,
+    "gPrice": 72.4,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Pantoprazole",
+    "bPrice": 74.94,
+    "gPrice": 48.56,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Montek 500",
+    "generic": "Telmisartan",
+    "bPrice": 68.45,
+    "gPrice": 13.78,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Ibuprofen",
+    "bPrice": 113.21,
+    "gPrice": 7.51,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Thyroxine",
+    "bPrice": 121.95,
+    "gPrice": 28.84,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 650",
+    "generic": "Telmisartan",
+    "bPrice": 269.91,
+    "gPrice": 11.34,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Thyroxine",
+    "bPrice": 232.85,
+    "gPrice": 24.95,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Crocin 650",
+    "generic": "Azithromycin",
+    "bPrice": 225.55,
+    "gPrice": 12.57,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Shelcal 500",
+    "generic": "Amoxicillin",
+    "bPrice": 172.86,
+    "gPrice": 24.02,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Metformin",
+    "bPrice": 271.61,
+    "gPrice": 63.0,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Azee 40",
+    "generic": "Paracetamol",
+    "bPrice": 274.7,
+    "gPrice": 71.1,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Montek 650",
+    "generic": "Thyroxine",
+    "bPrice": 79.64,
+    "gPrice": 61.38,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Benadryl 250",
+    "generic": "Pantoprazole",
+    "bPrice": 185.65,
+    "gPrice": 47.47,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Neurobion 250",
+    "generic": "Amoxicillin",
+    "bPrice": 158.09,
+    "gPrice": 64.82,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Calpol 200",
+    "generic": "Ibuprofen",
+    "bPrice": 279.9,
+    "gPrice": 53.68,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Cetzine 40",
+    "generic": "Ibuprofen",
+    "bPrice": 66.4,
+    "gPrice": 19.03,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Omez 500",
+    "generic": "Cefixime",
+    "bPrice": 138.11,
+    "gPrice": 25.24,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Montek 200",
+    "generic": "Azithromycin",
+    "bPrice": 170.24,
+    "gPrice": 9.37,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Dolo 40",
+    "generic": "Amoxicillin",
+    "bPrice": 57.99,
+    "gPrice": 69.65,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Vitamin C",
+    "bPrice": 143.37,
+    "gPrice": 8.83,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azee 250",
+    "generic": "Telmisartan",
+    "bPrice": 27.83,
+    "gPrice": 39.24,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 500",
+    "generic": "Azithromycin",
+    "bPrice": 63.72,
+    "gPrice": 43.79,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Cetzine 250",
+    "generic": "Thyroxine",
+    "bPrice": 215.83,
+    "gPrice": 56.88,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 650",
+    "generic": "Paracetamol",
+    "bPrice": 111.56,
+    "gPrice": 34.72,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Pantoprazole",
+    "bPrice": 80.58,
+    "gPrice": 15.43,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Telma 650",
+    "generic": "Amoxicillin",
+    "bPrice": 197.23,
+    "gPrice": 73.82,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Vitamin C",
+    "bPrice": 86.74,
+    "gPrice": 55.86,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Calpol 500",
+    "generic": "Thyroxine",
+    "bPrice": 191.34,
+    "gPrice": 64.51,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Shelcal 650",
+    "generic": "Vitamin C",
+    "bPrice": 173.41,
+    "gPrice": 75.93,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Thyroxine",
+    "bPrice": 25.39,
+    "gPrice": 35.44,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 650",
+    "generic": "Azithromycin",
+    "bPrice": 187.04,
+    "gPrice": 28.09,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Pantoprazole",
+    "bPrice": 97.72,
+    "gPrice": 53.75,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Ibuprofen",
+    "bPrice": 55.57,
+    "gPrice": 17.49,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Pan 100",
+    "generic": "Pantoprazole",
+    "bPrice": 39.65,
+    "gPrice": 39.43,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Azithromycin",
+    "bPrice": 81.94,
+    "gPrice": 11.13,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Shelcal 250",
+    "generic": "Cefixime",
+    "bPrice": 73.76,
+    "gPrice": 66.1,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Allegra 650",
+    "generic": "Amoxicillin",
+    "bPrice": 28.27,
+    "gPrice": 63.97,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Becosules 650",
+    "generic": "Cefixime",
+    "bPrice": 75.85,
+    "gPrice": 50.54,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Cefixime",
+    "bPrice": 191.44,
+    "gPrice": 13.63,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Paracetamol",
+    "bPrice": 95.37,
+    "gPrice": 41.34,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Telmisartan",
+    "bPrice": 278.18,
+    "gPrice": 27.81,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Cefixime",
+    "bPrice": 294.15,
+    "gPrice": 44.78,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Neurobion 650",
+    "generic": "Paracetamol",
+    "bPrice": 135.83,
+    "gPrice": 48.12,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Paracetamol",
+    "bPrice": 205.67,
+    "gPrice": 20.06,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Telma 40",
+    "generic": "Thyroxine",
+    "bPrice": 50.92,
+    "gPrice": 74.11,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Pantoprazole",
+    "bPrice": 55.51,
+    "gPrice": 70.63,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Neurobion 250",
+    "generic": "Metformin",
+    "bPrice": 134.09,
+    "gPrice": 64.66,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Taxim 500",
+    "generic": "Ibuprofen",
+    "bPrice": 104.86,
+    "gPrice": 74.39,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Telma 200",
+    "generic": "Amoxicillin",
+    "bPrice": 235.0,
+    "gPrice": 42.78,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Cefixime",
+    "bPrice": 33.93,
+    "gPrice": 26.33,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Augmentin 250",
+    "generic": "Pantoprazole",
+    "bPrice": 172.97,
+    "gPrice": 75.85,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Pan 200",
+    "generic": "Ibuprofen",
+    "bPrice": 71.45,
+    "gPrice": 6.34,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Amoxicillin",
+    "bPrice": 173.38,
+    "gPrice": 15.82,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Neurobion 500",
+    "generic": "Pantoprazole",
+    "bPrice": 298.65,
+    "gPrice": 65.66,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Shelcal 500",
+    "generic": "Metformin",
+    "bPrice": 94.32,
+    "gPrice": 57.12,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Allegra 500",
+    "generic": "Thyroxine",
+    "bPrice": 262.28,
+    "gPrice": 36.97,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Cefixime",
+    "bPrice": 45.58,
+    "gPrice": 24.68,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Omez 650",
+    "generic": "Azithromycin",
+    "bPrice": 111.27,
+    "gPrice": 79.84,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Cetzine 250",
+    "generic": "Vitamin C",
+    "bPrice": 100.93,
+    "gPrice": 51.83,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Cefixime",
+    "bPrice": 264.06,
+    "gPrice": 52.05,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Thyronorm 40",
+    "generic": "Metformin",
+    "bPrice": 100.84,
+    "gPrice": 36.37,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Azee 500",
+    "generic": "Thyroxine",
+    "bPrice": 22.7,
+    "gPrice": 64.87,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Shelcal 40",
+    "generic": "Cefixime",
+    "bPrice": 159.41,
+    "gPrice": 25.94,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Sinarest 250",
+    "generic": "Azithromycin",
+    "bPrice": 75.96,
+    "gPrice": 58.15,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Cetzine 40",
+    "generic": "Thyroxine",
+    "bPrice": 296.07,
+    "gPrice": 57.26,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Amoxicillin",
+    "bPrice": 78.75,
+    "gPrice": 52.5,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Augmentin 500",
+    "generic": "Cefixime",
+    "bPrice": 129.38,
+    "gPrice": 48.64,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Cefixime",
+    "bPrice": 148.59,
+    "gPrice": 63.02,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Cetzine 650",
+    "generic": "Vitamin C",
+    "bPrice": 139.85,
+    "gPrice": 20.65,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azithral 40",
+    "generic": "Vitamin C",
+    "bPrice": 212.35,
+    "gPrice": 77.33,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Telmisartan",
+    "bPrice": 197.26,
+    "gPrice": 70.4,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Ibuprofen",
+    "bPrice": 231.63,
+    "gPrice": 10.88,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Azithromycin",
+    "bPrice": 59.4,
+    "gPrice": 31.92,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Vitamin C",
+    "bPrice": 162.66,
+    "gPrice": 74.66,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Cetzine 250",
+    "generic": "Telmisartan",
+    "bPrice": 33.57,
+    "gPrice": 17.79,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Omez 500",
+    "generic": "Pantoprazole",
+    "bPrice": 142.01,
+    "gPrice": 50.96,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Glycomet 200",
+    "generic": "Amoxicillin",
+    "bPrice": 94.84,
+    "gPrice": 74.94,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Cetzine 650",
+    "generic": "Cefixime",
+    "bPrice": 150.7,
+    "gPrice": 54.66,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Sinarest 200",
+    "generic": "Pantoprazole",
+    "bPrice": 146.61,
+    "gPrice": 53.39,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Thyronorm 40",
+    "generic": "Telmisartan",
+    "bPrice": 139.19,
+    "gPrice": 66.8,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Taxim 650",
+    "generic": "Ibuprofen",
+    "bPrice": 107.49,
+    "gPrice": 13.66,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Crocin 500",
+    "generic": "Cefixime",
+    "bPrice": 270.13,
+    "gPrice": 27.46,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Crocin 40",
+    "generic": "Thyroxine",
+    "bPrice": 292.08,
+    "gPrice": 16.85,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Allegra 200",
+    "generic": "Vitamin C",
+    "bPrice": 100.62,
+    "gPrice": 67.4,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Dolo 40",
+    "generic": "Azithromycin",
+    "bPrice": 140.57,
+    "gPrice": 32.06,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Zifi 40",
+    "generic": "Metformin",
+    "bPrice": 35.9,
+    "gPrice": 78.96,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Montek 100",
+    "generic": "Amoxicillin",
+    "bPrice": 200.74,
+    "gPrice": 72.69,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Pan 100",
+    "generic": "Vitamin C",
+    "bPrice": 145.7,
+    "gPrice": 36.28,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Crocin 40",
+    "generic": "Pantoprazole",
+    "bPrice": 196.82,
+    "gPrice": 57.68,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Calpol 650",
+    "generic": "Telmisartan",
+    "bPrice": 246.25,
+    "gPrice": 69.07,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Azithral 200",
+    "generic": "Amoxicillin",
+    "bPrice": 218.75,
+    "gPrice": 67.62,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Limcee 200",
+    "generic": "Metformin",
+    "bPrice": 184.13,
+    "gPrice": 76.18,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Crocin 250",
+    "generic": "Telmisartan",
+    "bPrice": 59.51,
+    "gPrice": 45.22,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Thyroxine",
+    "bPrice": 279.54,
+    "gPrice": 74.73,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Thyronorm 40",
+    "generic": "Metformin",
+    "bPrice": 65.09,
+    "gPrice": 21.44,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Montek 40",
+    "generic": "Thyroxine",
+    "bPrice": 56.05,
+    "gPrice": 71.33,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Rantac 650",
+    "generic": "Azithromycin",
+    "bPrice": 190.34,
+    "gPrice": 29.73,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Amoxicillin",
+    "bPrice": 249.57,
+    "gPrice": 13.33,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Rantac 250",
+    "generic": "Vitamin C",
+    "bPrice": 78.51,
+    "gPrice": 75.17,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Benadryl 200",
+    "generic": "Vitamin C",
+    "bPrice": 48.98,
+    "gPrice": 70.47,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Moxikind 200",
+    "generic": "Paracetamol",
+    "bPrice": 193.97,
+    "gPrice": 10.47,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Thyronorm 500",
+    "generic": "Vitamin C",
+    "bPrice": 88.44,
+    "gPrice": 8.94,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Metformin",
+    "bPrice": 132.62,
+    "gPrice": 52.13,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Crocin 500",
+    "generic": "Pantoprazole",
+    "bPrice": 217.18,
+    "gPrice": 10.35,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Dolo 40",
+    "generic": "Cefixime",
+    "bPrice": 167.18,
+    "gPrice": 68.68,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 100",
+    "generic": "Metformin",
+    "bPrice": 179.24,
+    "gPrice": 70.4,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Thyronorm 250",
+    "generic": "Ibuprofen",
+    "bPrice": 94.26,
+    "gPrice": 54.87,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Benadryl 250",
+    "generic": "Pantoprazole",
+    "bPrice": 274.34,
+    "gPrice": 48.2,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Thyroxine",
+    "bPrice": 241.85,
+    "gPrice": 20.2,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Ibuprofen",
+    "bPrice": 38.78,
+    "gPrice": 20.43,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Allegra 200",
+    "generic": "Azithromycin",
+    "bPrice": 153.87,
+    "gPrice": 76.64,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Thyroxine",
+    "bPrice": 103.56,
+    "gPrice": 66.25,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Glycomet 40",
+    "generic": "Cefixime",
+    "bPrice": 142.38,
+    "gPrice": 59.74,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Thyronorm 200",
+    "generic": "Amoxicillin",
+    "bPrice": 99.36,
+    "gPrice": 17.12,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Azithromycin",
+    "bPrice": 274.01,
+    "gPrice": 24.5,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Thyroxine",
+    "bPrice": 186.91,
+    "gPrice": 41.95,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 200",
+    "generic": "Ibuprofen",
+    "bPrice": 26.59,
+    "gPrice": 21.48,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Rantac 100",
+    "generic": "Thyroxine",
+    "bPrice": 87.17,
+    "gPrice": 60.1,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Allegra 40",
+    "generic": "Amoxicillin",
+    "bPrice": 289.98,
+    "gPrice": 22.43,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Telmisartan",
+    "bPrice": 51.87,
+    "gPrice": 6.31,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Moxikind 250",
+    "generic": "Ibuprofen",
+    "bPrice": 176.14,
+    "gPrice": 5.21,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Allegra 40",
+    "generic": "Cefixime",
+    "bPrice": 90.54,
+    "gPrice": 50.72,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Telmisartan",
+    "bPrice": 265.3,
+    "gPrice": 77.63,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Neurobion 650",
+    "generic": "Paracetamol",
+    "bPrice": 200.92,
+    "gPrice": 58.35,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Pan 100",
+    "generic": "Cefixime",
+    "bPrice": 208.74,
+    "gPrice": 6.57,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Montek 200",
+    "generic": "Paracetamol",
+    "bPrice": 135.81,
+    "gPrice": 79.94,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Rantac 250",
+    "generic": "Azithromycin",
+    "bPrice": 129.49,
+    "gPrice": 40.63,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Rantac 250",
+    "generic": "Azithromycin",
+    "bPrice": 110.09,
+    "gPrice": 57.96,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Montek 500",
+    "generic": "Paracetamol",
+    "bPrice": 130.31,
+    "gPrice": 54.13,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Montek 40",
+    "generic": "Ibuprofen",
+    "bPrice": 137.65,
+    "gPrice": 53.96,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Becosules 500",
+    "generic": "Vitamin C",
+    "bPrice": 181.14,
+    "gPrice": 18.94,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Becosules 650",
+    "generic": "Paracetamol",
+    "bPrice": 290.97,
+    "gPrice": 17.76,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Ibuprofen",
+    "bPrice": 53.29,
+    "gPrice": 12.54,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Azee 500",
+    "generic": "Thyroxine",
+    "bPrice": 269.27,
+    "gPrice": 49.05,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Azithromycin",
+    "bPrice": 211.73,
+    "gPrice": 79.88,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Limcee 250",
+    "generic": "Vitamin C",
+    "bPrice": 229.33,
+    "gPrice": 44.29,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Sinarest 100",
+    "generic": "Ibuprofen",
+    "bPrice": 156.43,
+    "gPrice": 34.65,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Moxikind 500",
+    "generic": "Metformin",
+    "bPrice": 133.17,
+    "gPrice": 47.45,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Pantoprazole",
+    "bPrice": 293.6,
+    "gPrice": 73.39,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Crocin 100",
+    "generic": "Paracetamol",
+    "bPrice": 96.55,
+    "gPrice": 58.46,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Telma 250",
+    "generic": "Amoxicillin",
+    "bPrice": 239.07,
+    "gPrice": 56.88,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Telma 200",
+    "generic": "Telmisartan",
+    "bPrice": 40.51,
+    "gPrice": 56.11,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Limcee 100",
+    "generic": "Cefixime",
+    "bPrice": 131.55,
+    "gPrice": 55.68,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Pantoprazole",
+    "bPrice": 299.61,
+    "gPrice": 60.25,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Thyroxine",
+    "bPrice": 98.73,
+    "gPrice": 57.04,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Vitamin C",
+    "bPrice": 160.42,
+    "gPrice": 54.23,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Crocin 200",
+    "generic": "Paracetamol",
+    "bPrice": 51.27,
+    "gPrice": 73.39,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Allegra 650",
+    "generic": "Ibuprofen",
+    "bPrice": 187.1,
+    "gPrice": 67.06,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Ibuprofen",
+    "bPrice": 108.23,
+    "gPrice": 60.42,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Allegra 650",
+    "generic": "Thyroxine",
+    "bPrice": 245.55,
+    "gPrice": 44.81,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Allegra 200",
+    "generic": "Pantoprazole",
+    "bPrice": 190.91,
+    "gPrice": 10.44,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Thyroxine",
+    "bPrice": 189.49,
+    "gPrice": 65.98,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Crocin 200",
+    "generic": "Metformin",
+    "bPrice": 214.97,
+    "gPrice": 13.93,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Allegra 500",
+    "generic": "Paracetamol",
+    "bPrice": 69.49,
+    "gPrice": 47.99,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Ibuprofen",
+    "bPrice": 153.85,
+    "gPrice": 22.18,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 100",
+    "generic": "Cefixime",
+    "bPrice": 85.36,
+    "gPrice": 14.41,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Paracetamol",
+    "bPrice": 105.93,
+    "gPrice": 47.09,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Calpol 200",
+    "generic": "Metformin",
+    "bPrice": 151.55,
+    "gPrice": 54.24,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Calpol 200",
+    "generic": "Metformin",
+    "bPrice": 200.46,
+    "gPrice": 71.05,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Azee 40",
+    "generic": "Paracetamol",
+    "bPrice": 258.35,
+    "gPrice": 63.78,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Shelcal 250",
+    "generic": "Pantoprazole",
+    "bPrice": 200.63,
+    "gPrice": 6.73,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Dolo 500",
+    "generic": "Telmisartan",
+    "bPrice": 146.35,
+    "gPrice": 26.52,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Pantoprazole",
+    "bPrice": 52.73,
+    "gPrice": 58.63,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Thyronorm 250",
+    "generic": "Paracetamol",
+    "bPrice": 242.73,
+    "gPrice": 35.28,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Becosules 500",
+    "generic": "Thyroxine",
+    "bPrice": 202.87,
+    "gPrice": 74.65,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Montek 500",
+    "generic": "Vitamin C",
+    "bPrice": 42.04,
+    "gPrice": 77.61,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Telma 40",
+    "generic": "Vitamin C",
+    "bPrice": 295.22,
+    "gPrice": 55.98,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Azithromycin",
+    "bPrice": 218.66,
+    "gPrice": 6.78,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Amoxicillin",
+    "bPrice": 247.41,
+    "gPrice": 48.33,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Calpol 500",
+    "generic": "Paracetamol",
+    "bPrice": 165.94,
+    "gPrice": 45.58,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Metformin",
+    "bPrice": 158.2,
+    "gPrice": 17.08,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Becosules 250",
+    "generic": "Amoxicillin",
+    "bPrice": 229.48,
+    "gPrice": 62.76,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Sinarest 500",
+    "generic": "Thyroxine",
+    "bPrice": 298.36,
+    "gPrice": 37.76,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Cefixime",
+    "bPrice": 121.26,
+    "gPrice": 29.08,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Crocin 100",
+    "generic": "Cefixime",
+    "bPrice": 297.1,
+    "gPrice": 76.9,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Becosules 100",
+    "generic": "Ibuprofen",
+    "bPrice": 290.26,
+    "gPrice": 25.7,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Azithromycin",
+    "bPrice": 279.78,
+    "gPrice": 31.17,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Glycomet 200",
+    "generic": "Cefixime",
+    "bPrice": 230.21,
+    "gPrice": 23.51,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Ibuprofen",
+    "bPrice": 200.41,
+    "gPrice": 73.63,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Metformin",
+    "bPrice": 269.29,
+    "gPrice": 55.27,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Metformin",
+    "bPrice": 161.1,
+    "gPrice": 37.7,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Pantoprazole",
+    "bPrice": 107.86,
+    "gPrice": 32.9,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Azithral 200",
+    "generic": "Ibuprofen",
+    "bPrice": 161.81,
+    "gPrice": 67.88,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Calpol 200",
+    "generic": "Vitamin C",
+    "bPrice": 113.48,
+    "gPrice": 38.43,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Crocin 250",
+    "generic": "Amoxicillin",
+    "bPrice": 134.75,
+    "gPrice": 49.79,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Benadryl 250",
+    "generic": "Thyroxine",
+    "bPrice": 171.05,
+    "gPrice": 20.35,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Calpol 200",
+    "generic": "Telmisartan",
+    "bPrice": 214.8,
+    "gPrice": 11.84,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Pan 500",
+    "generic": "Azithromycin",
+    "bPrice": 43.84,
+    "gPrice": 68.36,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 100",
+    "generic": "Thyroxine",
+    "bPrice": 182.59,
+    "gPrice": 60.98,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Paracetamol",
+    "bPrice": 148.33,
+    "gPrice": 48.82,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Becosules 100",
+    "generic": "Paracetamol",
+    "bPrice": 81.91,
+    "gPrice": 24.99,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Omez 650",
+    "generic": "Amoxicillin",
+    "bPrice": 259.88,
+    "gPrice": 52.02,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Metformin",
+    "bPrice": 251.19,
+    "gPrice": 5.48,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Rantac 250",
+    "generic": "Amoxicillin",
+    "bPrice": 299.99,
+    "gPrice": 73.95,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Telmisartan",
+    "bPrice": 61.93,
+    "gPrice": 21.88,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Becosules 250",
+    "generic": "Telmisartan",
+    "bPrice": 282.78,
+    "gPrice": 42.61,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Thyroxine",
+    "bPrice": 259.48,
+    "gPrice": 47.79,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Azee 40",
+    "generic": "Vitamin C",
+    "bPrice": 149.66,
+    "gPrice": 43.44,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Sinarest 100",
+    "generic": "Pantoprazole",
+    "bPrice": 190.05,
+    "gPrice": 46.79,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Calpol 500",
+    "generic": "Pantoprazole",
+    "bPrice": 214.15,
+    "gPrice": 43.46,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Moxikind 250",
+    "generic": "Paracetamol",
+    "bPrice": 27.11,
+    "gPrice": 25.26,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Telmisartan",
+    "bPrice": 105.38,
+    "gPrice": 71.13,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Ibuprofen",
+    "bPrice": 186.44,
+    "gPrice": 21.85,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Taxim 250",
+    "generic": "Telmisartan",
+    "bPrice": 285.98,
+    "gPrice": 7.11,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 40",
+    "generic": "Vitamin C",
+    "bPrice": 204.1,
+    "gPrice": 29.55,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Dolo 500",
+    "generic": "Thyroxine",
+    "bPrice": 67.64,
+    "gPrice": 54.32,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 650",
+    "generic": "Cefixime",
+    "bPrice": 128.4,
+    "gPrice": 39.98,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Moxikind 650",
+    "generic": "Thyroxine",
+    "bPrice": 140.31,
+    "gPrice": 79.68,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Paracetamol",
+    "bPrice": 203.41,
+    "gPrice": 20.82,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Augmentin 100",
+    "generic": "Cefixime",
+    "bPrice": 236.31,
+    "gPrice": 10.98,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Cetzine 650",
+    "generic": "Paracetamol",
+    "bPrice": 94.36,
+    "gPrice": 61.77,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Telma 250",
+    "generic": "Ibuprofen",
+    "bPrice": 240.05,
+    "gPrice": 53.1,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Glycomet 100",
+    "generic": "Pantoprazole",
+    "bPrice": 248.52,
+    "gPrice": 44.31,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Ibuprofen",
+    "bPrice": 258.65,
+    "gPrice": 9.35,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Moxikind 200",
+    "generic": "Pantoprazole",
+    "bPrice": 50.61,
+    "gPrice": 11.8,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Azithral 100",
+    "generic": "Pantoprazole",
+    "bPrice": 37.49,
+    "gPrice": 32.45,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Augmentin 650",
+    "generic": "Azithromycin",
+    "bPrice": 250.03,
+    "gPrice": 38.12,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Telma 650",
+    "generic": "Paracetamol",
+    "bPrice": 234.54,
+    "gPrice": 41.0,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Azithromycin",
+    "bPrice": 252.04,
+    "gPrice": 63.35,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Sinarest 200",
+    "generic": "Pantoprazole",
+    "bPrice": 297.11,
+    "gPrice": 35.6,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Montek 250",
+    "generic": "Ibuprofen",
+    "bPrice": 140.57,
+    "gPrice": 60.9,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Thyroxine",
+    "bPrice": 39.11,
+    "gPrice": 48.96,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Thyronorm 250",
+    "generic": "Vitamin C",
+    "bPrice": 254.95,
+    "gPrice": 34.29,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Becosules 500",
+    "generic": "Paracetamol",
+    "bPrice": 225.32,
+    "gPrice": 41.06,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Telmisartan",
+    "bPrice": 197.25,
+    "gPrice": 7.51,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Shelcal 40",
+    "generic": "Pantoprazole",
+    "bPrice": 93.33,
+    "gPrice": 41.28,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Limcee 250",
+    "generic": "Pantoprazole",
+    "bPrice": 80.78,
+    "gPrice": 60.96,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Augmentin 40",
+    "generic": "Cefixime",
+    "bPrice": 77.72,
+    "gPrice": 14.01,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azee 250",
+    "generic": "Cefixime",
+    "bPrice": 123.21,
+    "gPrice": 43.64,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Amoxicillin",
+    "bPrice": 152.05,
+    "gPrice": 14.22,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Azee 200",
+    "generic": "Vitamin C",
+    "bPrice": 263.03,
+    "gPrice": 14.29,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Montek 250",
+    "generic": "Cefixime",
+    "bPrice": 177.29,
+    "gPrice": 15.64,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Calpol 250",
+    "generic": "Ibuprofen",
+    "bPrice": 233.98,
+    "gPrice": 54.38,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 250",
+    "generic": "Telmisartan",
+    "bPrice": 255.21,
+    "gPrice": 17.44,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Paracetamol",
+    "bPrice": 83.22,
+    "gPrice": 23.99,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Augmentin 250",
+    "generic": "Telmisartan",
+    "bPrice": 133.66,
+    "gPrice": 72.68,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Sinarest 200",
+    "generic": "Ibuprofen",
+    "bPrice": 132.33,
+    "gPrice": 42.74,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Ibuprofen",
+    "bPrice": 251.56,
+    "gPrice": 45.94,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Neurobion 500",
+    "generic": "Paracetamol",
+    "bPrice": 59.81,
+    "gPrice": 38.05,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Paracetamol",
+    "bPrice": 69.21,
+    "gPrice": 13.58,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Telma 100",
+    "generic": "Thyroxine",
+    "bPrice": 293.27,
+    "gPrice": 22.47,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Paracetamol",
+    "bPrice": 236.66,
+    "gPrice": 14.96,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Calpol 500",
+    "generic": "Ibuprofen",
+    "bPrice": 283.31,
+    "gPrice": 42.88,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Telmisartan",
+    "bPrice": 41.43,
+    "gPrice": 68.03,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Benadryl 500",
+    "generic": "Pantoprazole",
+    "bPrice": 112.85,
+    "gPrice": 52.45,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 200",
+    "generic": "Pantoprazole",
+    "bPrice": 251.67,
+    "gPrice": 64.68,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Thyroxine",
+    "bPrice": 235.51,
+    "gPrice": 78.67,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Metformin",
+    "bPrice": 71.46,
+    "gPrice": 41.34,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Zifi 200",
+    "generic": "Telmisartan",
+    "bPrice": 144.79,
+    "gPrice": 75.87,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Glycomet 100",
+    "generic": "Amoxicillin",
+    "bPrice": 219.98,
+    "gPrice": 9.96,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Azee 40",
+    "generic": "Amoxicillin",
+    "bPrice": 171.19,
+    "gPrice": 20.88,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Neurobion 40",
+    "generic": "Cefixime",
+    "bPrice": 144.72,
+    "gPrice": 69.62,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Metformin",
+    "bPrice": 173.99,
+    "gPrice": 19.25,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Montek 650",
+    "generic": "Thyroxine",
+    "bPrice": 159.68,
+    "gPrice": 5.88,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Sinarest 40",
+    "generic": "Thyroxine",
+    "bPrice": 293.11,
+    "gPrice": 45.67,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Telmisartan",
+    "bPrice": 283.89,
+    "gPrice": 13.28,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Telmisartan",
+    "bPrice": 120.22,
+    "gPrice": 54.89,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Shelcal 650",
+    "generic": "Paracetamol",
+    "bPrice": 145.66,
+    "gPrice": 34.75,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Metformin",
+    "bPrice": 194.96,
+    "gPrice": 20.41,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Moxikind 650",
+    "generic": "Thyroxine",
+    "bPrice": 297.92,
+    "gPrice": 32.15,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Thyroxine",
+    "bPrice": 122.83,
+    "gPrice": 66.53,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Azithromycin",
+    "bPrice": 50.02,
+    "gPrice": 79.97,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Glycomet 100",
+    "generic": "Thyroxine",
+    "bPrice": 99.89,
+    "gPrice": 30.94,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Pantoprazole",
+    "bPrice": 192.29,
+    "gPrice": 42.54,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Metformin",
+    "bPrice": 222.32,
+    "gPrice": 11.9,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Pan 500",
+    "generic": "Vitamin C",
+    "bPrice": 74.21,
+    "gPrice": 20.78,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Vitamin C",
+    "bPrice": 283.81,
+    "gPrice": 47.69,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Azithromycin",
+    "bPrice": 168.87,
+    "gPrice": 32.62,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Pantoprazole",
+    "bPrice": 137.39,
+    "gPrice": 48.45,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Neurobion 100",
+    "generic": "Cefixime",
+    "bPrice": 281.28,
+    "gPrice": 38.44,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Rantac 650",
+    "generic": "Telmisartan",
+    "bPrice": 85.78,
+    "gPrice": 16.85,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Amoxicillin",
+    "bPrice": 194.36,
+    "gPrice": 34.23,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Azithral 40",
+    "generic": "Vitamin C",
+    "bPrice": 36.48,
+    "gPrice": 21.72,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Limcee 200",
+    "generic": "Thyroxine",
+    "bPrice": 45.43,
+    "gPrice": 48.78,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Neurobion 650",
+    "generic": "Azithromycin",
+    "bPrice": 77.66,
+    "gPrice": 16.97,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Vitamin C",
+    "bPrice": 231.8,
+    "gPrice": 44.04,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Paracetamol",
+    "bPrice": 278.4,
+    "gPrice": 71.29,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Montek 500",
+    "generic": "Thyroxine",
+    "bPrice": 296.26,
+    "gPrice": 26.44,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Omez 500",
+    "generic": "Cefixime",
+    "bPrice": 146.2,
+    "gPrice": 39.13,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Taxim 100",
+    "generic": "Cefixime",
+    "bPrice": 186.02,
+    "gPrice": 5.75,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Azithromycin",
+    "bPrice": 113.31,
+    "gPrice": 70.17,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Allegra 200",
+    "generic": "Amoxicillin",
+    "bPrice": 116.3,
+    "gPrice": 52.29,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Augmentin 200",
+    "generic": "Azithromycin",
+    "bPrice": 280.69,
+    "gPrice": 69.69,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Sinarest 100",
+    "generic": "Paracetamol",
+    "bPrice": 246.05,
+    "gPrice": 41.52,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Allegra 650",
+    "generic": "Ibuprofen",
+    "bPrice": 31.88,
+    "gPrice": 78.35,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Cefixime",
+    "bPrice": 72.79,
+    "gPrice": 25.97,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Vitamin C",
+    "bPrice": 193.09,
+    "gPrice": 67.44,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Rantac 500",
+    "generic": "Thyroxine",
+    "bPrice": 258.5,
+    "gPrice": 5.22,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Limcee 100",
+    "generic": "Cefixime",
+    "bPrice": 255.56,
+    "gPrice": 44.66,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Omez 500",
+    "generic": "Ibuprofen",
+    "bPrice": 217.79,
+    "gPrice": 32.83,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Limcee 250",
+    "generic": "Paracetamol",
+    "bPrice": 56.34,
+    "gPrice": 72.22,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Pan 650",
+    "generic": "Amoxicillin",
+    "bPrice": 92.19,
+    "gPrice": 50.53,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Benadryl 500",
+    "generic": "Telmisartan",
+    "bPrice": 61.39,
+    "gPrice": 49.03,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Moxikind 40",
+    "generic": "Azithromycin",
+    "bPrice": 234.82,
+    "gPrice": 7.9,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Cefixime",
+    "bPrice": 127.69,
+    "gPrice": 45.37,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Azithromycin",
+    "bPrice": 152.33,
+    "gPrice": 49.92,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azithral 100",
+    "generic": "Metformin",
+    "bPrice": 22.24,
+    "gPrice": 27.39,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Vitamin C",
+    "bPrice": 180.42,
+    "gPrice": 15.09,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Allegra 40",
+    "generic": "Ibuprofen",
+    "bPrice": 207.78,
+    "gPrice": 45.23,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 250",
+    "generic": "Thyroxine",
+    "bPrice": 55.0,
+    "gPrice": 40.64,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Cetzine 40",
+    "generic": "Cefixime",
+    "bPrice": 85.78,
+    "gPrice": 28.16,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Taxim 100",
+    "generic": "Metformin",
+    "bPrice": 91.79,
+    "gPrice": 49.94,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Allegra 40",
+    "generic": "Azithromycin",
+    "bPrice": 283.19,
+    "gPrice": 25.23,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Becosules 200",
+    "generic": "Paracetamol",
+    "bPrice": 274.27,
+    "gPrice": 17.05,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Amoxicillin",
+    "bPrice": 137.0,
+    "gPrice": 22.44,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Calpol 250",
+    "generic": "Cefixime",
+    "bPrice": 225.27,
+    "gPrice": 16.16,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Paracetamol",
+    "bPrice": 46.78,
+    "gPrice": 20.07,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Augmentin 200",
+    "generic": "Thyroxine",
+    "bPrice": 212.36,
+    "gPrice": 48.39,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Benadryl 500",
+    "generic": "Amoxicillin",
+    "bPrice": 66.85,
+    "gPrice": 13.42,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Omez 500",
+    "generic": "Azithromycin",
+    "bPrice": 183.39,
+    "gPrice": 43.46,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Rantac 100",
+    "generic": "Cefixime",
+    "bPrice": 24.9,
+    "gPrice": 47.31,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Montek 200",
+    "generic": "Cefixime",
+    "bPrice": 229.71,
+    "gPrice": 45.61,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Augmentin 650",
+    "generic": "Cefixime",
+    "bPrice": 118.13,
+    "gPrice": 13.74,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Dolo 500",
+    "generic": "Thyroxine",
+    "bPrice": 98.34,
+    "gPrice": 23.11,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Pan 40",
+    "generic": "Azithromycin",
+    "bPrice": 201.7,
+    "gPrice": 33.98,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Dolo 200",
+    "generic": "Telmisartan",
+    "bPrice": 21.57,
+    "gPrice": 32.17,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Augmentin 500",
+    "generic": "Vitamin C",
+    "bPrice": 26.68,
+    "gPrice": 21.99,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Rantac 250",
+    "generic": "Cefixime",
+    "bPrice": 227.8,
+    "gPrice": 11.12,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Becosules 650",
+    "generic": "Telmisartan",
+    "bPrice": 200.43,
+    "gPrice": 6.64,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Azithromycin",
+    "bPrice": 58.58,
+    "gPrice": 5.17,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Paracetamol",
+    "bPrice": 76.19,
+    "gPrice": 11.48,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Pantoprazole",
+    "bPrice": 142.87,
+    "gPrice": 77.16,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Cefixime",
+    "bPrice": 288.82,
+    "gPrice": 11.14,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Shelcal 650",
+    "generic": "Amoxicillin",
+    "bPrice": 186.67,
+    "gPrice": 27.15,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Azithral 200",
+    "generic": "Azithromycin",
+    "bPrice": 293.45,
+    "gPrice": 73.23,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Calpol 250",
+    "generic": "Amoxicillin",
+    "bPrice": 24.91,
+    "gPrice": 7.47,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Taxim 100",
+    "generic": "Pantoprazole",
+    "bPrice": 24.02,
+    "gPrice": 66.15,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Glycomet 650",
+    "generic": "Azithromycin",
+    "bPrice": 131.97,
+    "gPrice": 28.8,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Cefixime",
+    "bPrice": 69.13,
+    "gPrice": 60.5,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azee 250",
+    "generic": "Azithromycin",
+    "bPrice": 186.37,
+    "gPrice": 62.25,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Sinarest 200",
+    "generic": "Telmisartan",
+    "bPrice": 125.77,
+    "gPrice": 37.77,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Azithromycin",
+    "bPrice": 70.42,
+    "gPrice": 57.16,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Amoxicillin",
+    "bPrice": 23.43,
+    "gPrice": 28.29,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Neurobion 40",
+    "generic": "Thyroxine",
+    "bPrice": 42.41,
+    "gPrice": 78.09,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 100",
+    "generic": "Paracetamol",
+    "bPrice": 285.78,
+    "gPrice": 28.97,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Sinarest 40",
+    "generic": "Metformin",
+    "bPrice": 95.24,
+    "gPrice": 20.84,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Ibuprofen",
+    "bPrice": 65.64,
+    "gPrice": 57.76,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Neurobion 40",
+    "generic": "Thyroxine",
+    "bPrice": 224.15,
+    "gPrice": 31.98,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Azithral 200",
+    "generic": "Pantoprazole",
+    "bPrice": 201.37,
+    "gPrice": 15.42,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Rantac 650",
+    "generic": "Thyroxine",
+    "bPrice": 105.98,
+    "gPrice": 47.01,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Moxikind 200",
+    "generic": "Paracetamol",
+    "bPrice": 128.63,
+    "gPrice": 15.62,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Pan 650",
+    "generic": "Cefixime",
+    "bPrice": 222.0,
+    "gPrice": 50.74,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Omez 650",
+    "generic": "Azithromycin",
+    "bPrice": 99.46,
+    "gPrice": 66.95,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azithral 40",
+    "generic": "Vitamin C",
+    "bPrice": 266.01,
+    "gPrice": 75.56,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Allegra 650",
+    "generic": "Metformin",
+    "bPrice": 46.45,
+    "gPrice": 24.05,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Telma 250",
+    "generic": "Cefixime",
+    "bPrice": 276.31,
+    "gPrice": 79.16,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Rantac 500",
+    "generic": "Metformin",
+    "bPrice": 170.7,
+    "gPrice": 27.36,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Thyroxine",
+    "bPrice": 268.8,
+    "gPrice": 13.23,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Taxim 100",
+    "generic": "Vitamin C",
+    "bPrice": 83.19,
+    "gPrice": 56.68,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Sinarest 100",
+    "generic": "Cefixime",
+    "bPrice": 101.72,
+    "gPrice": 64.65,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Glycomet 650",
+    "generic": "Telmisartan",
+    "bPrice": 156.78,
+    "gPrice": 58.05,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Limcee 100",
+    "generic": "Paracetamol",
+    "bPrice": 140.81,
+    "gPrice": 68.42,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Pan 650",
+    "generic": "Cefixime",
+    "bPrice": 277.92,
+    "gPrice": 46.74,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Crocin 500",
+    "generic": "Amoxicillin",
+    "bPrice": 166.93,
+    "gPrice": 30.32,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Azithromycin",
+    "bPrice": 189.43,
+    "gPrice": 58.38,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Telma 200",
+    "generic": "Paracetamol",
+    "bPrice": 232.03,
+    "gPrice": 29.82,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Limcee 500",
+    "generic": "Metformin",
+    "bPrice": 26.87,
+    "gPrice": 20.99,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Becosules 250",
+    "generic": "Telmisartan",
+    "bPrice": 53.07,
+    "gPrice": 7.12,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Montek 650",
+    "generic": "Ibuprofen",
+    "bPrice": 76.4,
+    "gPrice": 63.79,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Neurobion 40",
+    "generic": "Metformin",
+    "bPrice": 81.09,
+    "gPrice": 27.35,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Benadryl 100",
+    "generic": "Metformin",
+    "bPrice": 264.38,
+    "gPrice": 17.31,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Crocin 250",
+    "generic": "Azithromycin",
+    "bPrice": 86.96,
+    "gPrice": 18.99,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Azithromycin",
+    "bPrice": 137.66,
+    "gPrice": 42.72,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 250",
+    "generic": "Paracetamol",
+    "bPrice": 290.26,
+    "gPrice": 50.84,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Augmentin 650",
+    "generic": "Metformin",
+    "bPrice": 150.72,
+    "gPrice": 55.58,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Montek 40",
+    "generic": "Paracetamol",
+    "bPrice": 166.15,
+    "gPrice": 76.44,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Sinarest 500",
+    "generic": "Ibuprofen",
+    "bPrice": 298.24,
+    "gPrice": 23.0,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Pan 500",
+    "generic": "Azithromycin",
+    "bPrice": 80.64,
+    "gPrice": 30.28,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Amoxicillin",
+    "bPrice": 188.38,
+    "gPrice": 47.01,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Moxikind 250",
+    "generic": "Amoxicillin",
+    "bPrice": 287.46,
+    "gPrice": 26.45,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Calpol 650",
+    "generic": "Cefixime",
+    "bPrice": 259.62,
+    "gPrice": 54.78,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Moxikind 200",
+    "generic": "Telmisartan",
+    "bPrice": 168.37,
+    "gPrice": 71.58,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Cetzine 200",
+    "generic": "Vitamin C",
+    "bPrice": 93.19,
+    "gPrice": 73.8,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Pantoprazole",
+    "bPrice": 138.33,
+    "gPrice": 49.58,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Pan 250",
+    "generic": "Azithromycin",
+    "bPrice": 91.64,
+    "gPrice": 17.5,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Azithromycin",
+    "bPrice": 85.16,
+    "gPrice": 40.91,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Pan 200",
+    "generic": "Azithromycin",
+    "bPrice": 47.58,
+    "gPrice": 46.41,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Pan 500",
+    "generic": "Telmisartan",
+    "bPrice": 233.8,
+    "gPrice": 23.61,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Thyroxine",
+    "bPrice": 254.7,
+    "gPrice": 63.46,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Dolo 650",
+    "generic": "Azithromycin",
+    "bPrice": 296.04,
+    "gPrice": 12.88,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Crocin 200",
+    "generic": "Paracetamol",
+    "bPrice": 131.66,
+    "gPrice": 17.28,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Sinarest 40",
+    "generic": "Vitamin C",
+    "bPrice": 148.64,
+    "gPrice": 71.67,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Neurobion 250",
+    "generic": "Azithromycin",
+    "bPrice": 47.48,
+    "gPrice": 69.73,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Rantac 40",
+    "generic": "Metformin",
+    "bPrice": 271.85,
+    "gPrice": 75.75,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Shelcal 650",
+    "generic": "Ibuprofen",
+    "bPrice": 181.34,
+    "gPrice": 48.92,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Thyronorm 200",
+    "generic": "Thyroxine",
+    "bPrice": 83.5,
+    "gPrice": 66.23,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Paracetamol",
+    "bPrice": 239.89,
+    "gPrice": 58.34,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Metformin",
+    "bPrice": 83.13,
+    "gPrice": 49.11,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Glycomet 500",
+    "generic": "Pantoprazole",
+    "bPrice": 259.49,
+    "gPrice": 50.76,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Azithral 500",
+    "generic": "Telmisartan",
+    "bPrice": 30.84,
+    "gPrice": 66.86,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Zifi 100",
+    "generic": "Azithromycin",
+    "bPrice": 183.79,
+    "gPrice": 64.42,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Neurobion 200",
+    "generic": "Telmisartan",
+    "bPrice": 109.74,
+    "gPrice": 41.72,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Neurobion 250",
+    "generic": "Cefixime",
+    "bPrice": 113.81,
+    "gPrice": 57.55,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Crocin 500",
+    "generic": "Metformin",
+    "bPrice": 205.46,
+    "gPrice": 75.48,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Pan 250",
+    "generic": "Metformin",
+    "bPrice": 125.53,
+    "gPrice": 67.6,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Vitamin C",
+    "bPrice": 242.77,
+    "gPrice": 33.14,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Paracetamol",
+    "bPrice": 261.37,
+    "gPrice": 16.16,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Rantac 100",
+    "generic": "Vitamin C",
+    "bPrice": 123.61,
+    "gPrice": 26.88,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Limcee 40",
+    "generic": "Vitamin C",
+    "bPrice": 151.45,
+    "gPrice": 13.88,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Thyronorm 650",
+    "generic": "Cefixime",
+    "bPrice": 155.04,
+    "gPrice": 70.83,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Moxikind 500",
+    "generic": "Amoxicillin",
+    "bPrice": 198.43,
+    "gPrice": 49.75,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Dolo 200",
+    "generic": "Cefixime",
+    "bPrice": 211.54,
+    "gPrice": 74.4,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Crocin 650",
+    "generic": "Metformin",
+    "bPrice": 201.62,
+    "gPrice": 54.51,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Cefixime",
+    "bPrice": 133.95,
+    "gPrice": 76.37,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Omez 100",
+    "generic": "Thyroxine",
+    "bPrice": 190.53,
+    "gPrice": 38.98,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Moxikind 650",
+    "generic": "Metformin",
+    "bPrice": 76.11,
+    "gPrice": 20.86,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Azithral 200",
+    "generic": "Cefixime",
+    "bPrice": 57.64,
+    "gPrice": 36.08,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Benadryl 500",
+    "generic": "Amoxicillin",
+    "bPrice": 66.65,
+    "gPrice": 80.0,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Omez 200",
+    "generic": "Vitamin C",
+    "bPrice": 294.61,
+    "gPrice": 62.37,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Cefixime",
+    "bPrice": 194.95,
+    "gPrice": 77.48,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Paracetamol",
+    "bPrice": 74.15,
+    "gPrice": 66.66,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Limcee 650",
+    "generic": "Azithromycin",
+    "bPrice": 225.95,
+    "gPrice": 48.46,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Thyronorm 100",
+    "generic": "Cefixime",
+    "bPrice": 254.59,
+    "gPrice": 11.83,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Omez 200",
+    "generic": "Telmisartan",
+    "bPrice": 92.26,
+    "gPrice": 37.69,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 650",
+    "generic": "Pantoprazole",
+    "bPrice": 259.15,
+    "gPrice": 33.42,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Montek 100",
+    "generic": "Vitamin C",
+    "bPrice": 157.99,
+    "gPrice": 35.3,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Vitamin C",
+    "bPrice": 216.78,
+    "gPrice": 24.75,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Limcee 100",
+    "generic": "Thyroxine",
+    "bPrice": 32.3,
+    "gPrice": 60.78,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Glycomet 650",
+    "generic": "Azithromycin",
+    "bPrice": 104.45,
+    "gPrice": 26.16,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Vitamin C",
+    "bPrice": 212.69,
+    "gPrice": 5.1,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Telmisartan",
+    "bPrice": 168.0,
+    "gPrice": 38.23,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Augmentin 40",
+    "generic": "Thyroxine",
+    "bPrice": 158.02,
+    "gPrice": 49.16,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Crocin 650",
+    "generic": "Azithromycin",
+    "bPrice": 207.37,
+    "gPrice": 79.11,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Paracetamol",
+    "bPrice": 106.4,
+    "gPrice": 35.8,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Zifi 650",
+    "generic": "Cefixime",
+    "bPrice": 199.0,
+    "gPrice": 70.53,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Montek 40",
+    "generic": "Thyroxine",
+    "bPrice": 194.05,
+    "gPrice": 57.2,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Telma 500",
+    "generic": "Metformin",
+    "bPrice": 135.19,
+    "gPrice": 66.46,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Ibuprofen",
+    "bPrice": 83.07,
+    "gPrice": 24.24,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Zifi 100",
+    "generic": "Azithromycin",
+    "bPrice": 285.19,
+    "gPrice": 25.81,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Augmentin 650",
+    "generic": "Amoxicillin",
+    "bPrice": 210.19,
+    "gPrice": 6.33,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Limcee 250",
+    "generic": "Thyroxine",
+    "bPrice": 167.21,
+    "gPrice": 49.85,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Becosules 40",
+    "generic": "Ibuprofen",
+    "bPrice": 221.41,
+    "gPrice": 6.77,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Shelcal 250",
+    "generic": "Amoxicillin",
+    "bPrice": 69.41,
+    "gPrice": 47.54,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Allegra 100",
+    "generic": "Metformin",
+    "bPrice": 263.4,
+    "gPrice": 65.44,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Benadryl 40",
+    "generic": "Metformin",
+    "bPrice": 204.56,
+    "gPrice": 49.26,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Azithromycin",
+    "bPrice": 282.41,
+    "gPrice": 55.7,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Glycomet 40",
+    "generic": "Ibuprofen",
+    "bPrice": 20.19,
+    "gPrice": 36.86,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Augmentin 40",
+    "generic": "Metformin",
+    "bPrice": 82.15,
+    "gPrice": 36.24,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Telma 500",
+    "generic": "Amoxicillin",
+    "bPrice": 247.03,
+    "gPrice": 35.12,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Calpol 100",
+    "generic": "Pantoprazole",
+    "bPrice": 258.71,
+    "gPrice": 51.08,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Neurobion 200",
+    "generic": "Ibuprofen",
+    "bPrice": 54.07,
+    "gPrice": 66.18,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Shelcal 250",
+    "generic": "Pantoprazole",
+    "bPrice": 289.51,
+    "gPrice": 63.2,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 250",
+    "generic": "Pantoprazole",
+    "bPrice": 121.86,
+    "gPrice": 79.66,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Zifi 500",
+    "generic": "Metformin",
+    "bPrice": 55.57,
+    "gPrice": 60.88,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Montek 100",
+    "generic": "Vitamin C",
+    "bPrice": 259.36,
+    "gPrice": 37.59,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Augmentin 500",
+    "generic": "Cefixime",
+    "bPrice": 104.17,
+    "gPrice": 17.13,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Zifi 40",
+    "generic": "Vitamin C",
+    "bPrice": 243.54,
+    "gPrice": 43.67,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Thyronorm 250",
+    "generic": "Metformin",
+    "bPrice": 141.26,
+    "gPrice": 15.8,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Taxim 200",
+    "generic": "Vitamin C",
+    "bPrice": 22.76,
+    "gPrice": 16.09,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Shelcal 40",
+    "generic": "Telmisartan",
+    "bPrice": 94.67,
+    "gPrice": 28.52,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Pantoprazole",
+    "bPrice": 86.73,
+    "gPrice": 14.55,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Vitamin C",
+    "bPrice": 66.42,
+    "gPrice": 75.54,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Augmentin 250",
+    "generic": "Metformin",
+    "bPrice": 176.18,
+    "gPrice": 50.6,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Cetzine 250",
+    "generic": "Paracetamol",
+    "bPrice": 35.01,
+    "gPrice": 49.14,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Glycomet 250",
+    "generic": "Azithromycin",
+    "bPrice": 257.83,
+    "gPrice": 19.62,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Rantac 200",
+    "generic": "Thyroxine",
+    "bPrice": 88.54,
+    "gPrice": 35.74,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Allegra 100",
+    "generic": "Metformin",
+    "bPrice": 90.21,
+    "gPrice": 10.46,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Dolo 500",
+    "generic": "Thyroxine",
+    "bPrice": 233.76,
+    "gPrice": 76.7,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Paracetamol",
+    "bPrice": 227.19,
+    "gPrice": 41.14,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Paracetamol",
+    "bPrice": 232.96,
+    "gPrice": 54.76,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Cefixime",
+    "bPrice": 273.04,
+    "gPrice": 74.84,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Taxim 100",
+    "generic": "Cefixime",
+    "bPrice": 111.04,
+    "gPrice": 60.39,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Moxikind 250",
+    "generic": "Metformin",
+    "bPrice": 154.54,
+    "gPrice": 24.09,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Becosules 650",
+    "generic": "Cefixime",
+    "bPrice": 35.31,
+    "gPrice": 65.18,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Moxikind 500",
+    "generic": "Thyroxine",
+    "bPrice": 192.93,
+    "gPrice": 53.78,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Dolo 250",
+    "generic": "Metformin",
+    "bPrice": 267.47,
+    "gPrice": 30.74,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Cetzine 100",
+    "generic": "Paracetamol",
+    "bPrice": 84.14,
+    "gPrice": 32.61,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Augmentin 200",
+    "generic": "Ibuprofen",
+    "bPrice": 117.62,
+    "gPrice": 7.32,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Sinarest 250",
+    "generic": "Amoxicillin",
+    "bPrice": 285.01,
+    "gPrice": 6.61,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Augmentin 100",
+    "generic": "Vitamin C",
+    "bPrice": 205.96,
+    "gPrice": 39.0,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Moxikind 40",
+    "generic": "Paracetamol",
+    "bPrice": 203.53,
+    "gPrice": 39.47,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Rantac 650",
+    "generic": "Thyroxine",
+    "bPrice": 36.93,
+    "gPrice": 55.52,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Montek 40",
+    "generic": "Amoxicillin",
+    "bPrice": 166.11,
+    "gPrice": 23.95,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Allegra 200",
+    "generic": "Pantoprazole",
+    "bPrice": 72.31,
+    "gPrice": 28.82,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Metformin",
+    "bPrice": 134.25,
+    "gPrice": 76.07,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Benadryl 100",
+    "generic": "Azithromycin",
+    "bPrice": 280.73,
+    "gPrice": 50.19,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Montek 500",
+    "generic": "Cefixime",
+    "bPrice": 299.22,
+    "gPrice": 19.43,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Sinarest 650",
+    "generic": "Telmisartan",
+    "bPrice": 216.24,
+    "gPrice": 15.34,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Dolo 40",
+    "generic": "Telmisartan",
+    "bPrice": 41.03,
+    "gPrice": 35.57,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Calpol 250",
+    "generic": "Azithromycin",
+    "bPrice": 165.98,
+    "gPrice": 71.59,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Telma 100",
+    "generic": "Thyroxine",
+    "bPrice": 160.59,
+    "gPrice": 60.5,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Shelcal 500",
+    "generic": "Ibuprofen",
+    "bPrice": 133.22,
+    "gPrice": 45.44,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Azee 100",
+    "generic": "Ibuprofen",
+    "bPrice": 230.93,
+    "gPrice": 21.4,
+    "info": "Pain relief and inflammation"
+  },
+  {
+    "brand": "Azee 650",
+    "generic": "Azithromycin",
+    "bPrice": 123.34,
+    "gPrice": 54.49,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Limcee 650",
+    "generic": "Azithromycin",
+    "bPrice": 280.6,
+    "gPrice": 12.9,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Omez 650",
+    "generic": "Amoxicillin",
+    "bPrice": 101.76,
+    "gPrice": 9.03,
+    "info": "Antibiotic medication"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Azithromycin",
+    "bPrice": 108.28,
+    "gPrice": 19.36,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Azee 100",
+    "generic": "Azithromycin",
+    "bPrice": 241.3,
+    "gPrice": 44.89,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Neurobion 250",
+    "generic": "Paracetamol",
+    "bPrice": 65.98,
+    "gPrice": 60.87,
+    "info": "Fever and pain relief"
+  },
+  {
+    "brand": "Moxikind 650",
+    "generic": "Vitamin C",
+    "bPrice": 28.19,
+    "gPrice": 43.0,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Thyronorm 250",
+    "generic": "Cefixime",
+    "bPrice": 25.5,
+    "gPrice": 34.78,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Azithral 650",
+    "generic": "Azithromycin",
+    "bPrice": 181.49,
+    "gPrice": 36.44,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Telma 100",
+    "generic": "Thyroxine",
+    "bPrice": 213.12,
+    "gPrice": 39.6,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Pan 650",
+    "generic": "Vitamin C",
+    "bPrice": 271.77,
+    "gPrice": 12.01,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Azithral 250",
+    "generic": "Azithromycin",
+    "bPrice": 218.78,
+    "gPrice": 12.07,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Telmisartan",
+    "bPrice": 101.82,
+    "gPrice": 16.99,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Omez 250",
+    "generic": "Vitamin C",
+    "bPrice": 126.87,
+    "gPrice": 71.78,
+    "info": "Improves immunity"
+  },
+  {
+    "brand": "Zifi 100",
+    "generic": "Telmisartan",
+    "bPrice": 148.15,
+    "gPrice": 63.66,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Benadryl 650",
+    "generic": "Pantoprazole",
+    "bPrice": 279.78,
+    "gPrice": 70.03,
+    "info": "Used for acidity and ulcers"
+  },
+  {
+    "brand": "Rantac 100",
+    "generic": "Cefixime",
+    "bPrice": 289.74,
+    "gPrice": 71.73,
+    "info": "Used for bacterial infections"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Azithromycin",
+    "bPrice": 64.67,
+    "gPrice": 74.3,
+    "info": "Antibiotic for infections"
+  },
+  {
+    "brand": "Shelcal 200",
+    "generic": "Thyroxine",
+    "bPrice": 188.82,
+    "gPrice": 22.07,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Zifi 40",
+    "generic": "Thyroxine",
+    "bPrice": 115.47,
+    "gPrice": 47.08,
+    "info": "Used for thyroid deficiency"
+  },
+  {
+    "brand": "Benadryl 100",
+    "generic": "Telmisartan",
+    "bPrice": 117.74,
+    "gPrice": 37.55,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Calpol 40",
+    "generic": "Metformin",
+    "bPrice": 161.57,
+    "gPrice": 70.46,
+    "info": "Used for diabetes management"
+  },
+  {
+    "brand": "Taxim 40",
+    "generic": "Telmisartan",
+    "bPrice": 129.86,
+    "gPrice": 62.37,
+    "info": "Controls blood pressure"
+  },
+  {
+    "brand": "Allegra 500",
+    "generic": "Amoxicillin",
+    "bPrice": 90.17,
+    "gPrice": 16.37,
+    "info": "Antibiotic medication"
+  }
+]
